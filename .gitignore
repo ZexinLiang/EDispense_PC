@@ -1,0 +1,25 @@
+# Models (large, downloaded separately)
+models/
+*.onnx
+*.bin
+*.xml
+*.gguf
+
+# Env / secrets
+.env
+*.local
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Backups / temp / experiments
+*.bak
+*.tmp
+*~

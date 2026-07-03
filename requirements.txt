@@ -1,0 +1,18 @@
+# PC-side services for EDispense
+# Python 3.10+ recommended
+
+# LLM server (OpenVINO GenAI, OpenAI-compatible API)
+openvino-genai
+fastapi
+uvicorn
+pydantic
+
+# ASR server (offline speech-to-text)
+sherpa-onnx==1.13.3
+numpy
+
+# Gateway (SSH tunnel to board)
+paramiko
+
+# mDNS service advertising
+zeroconf

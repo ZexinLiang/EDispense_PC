@@ -1,0 +1,55 @@
+EDispense PC-side Services
+Copyright (c) 2026 Rick
+
+This product includes third-party open-source software. Each component is
+the property of its respective owners and is used under its own license.
+
+--------------------------------------------------------------------------
+OpenVINO GenAI / OpenVINO Toolkit
+  Copyright (c) Intel Corporation
+  License: Apache License 2.0
+  https://github.com/openvinotoolkit/openvino.genai
+
+Qwen2.5-3B-Instruct (LLM weights, converted to INT4 OpenVINO IR)
+  Copyright (c) Alibaba Cloud
+  License: Apache License 2.0
+  https://huggingface.co/Qwen/Qwen2.5-3B-Instruct
+
+sherpa-onnx
+  Copyright (c) 2022-2024 Xiaomi Corporation (k2-fsa)
+  License: Apache License 2.0
+  https://github.com/k2-fsa/sherpa-onnx
+
+SenseVoice-Small (ASR weights)
+  Copyright (c) Alibaba DAMO Academy (FunAudioLLM)
+  License: Apache License 2.0
+  https://huggingface.co/FunAudioLLM/SenseVoiceSmall
+
+FastAPI
+  Copyright (c) 2018 Sebastian Ramirez
+  License: MIT License
+  https://github.com/tiangolo/fastapi
+
+Uvicorn
+  Copyright (c) 2017-present Encode OSS Ltd.
+  License: BSD 3-Clause License
+  https://github.com/encode/uvicorn
+
+Pydantic
+  Copyright (c) Pydantic Services Inc. and individual contributors
+  License: MIT License
+  https://github.com/pydantic/pydantic
+
+Paramiko
+  Copyright (c) Jeff Forcier
+  License: GNU LGPL v2.1
+  https://github.com/paramiko/paramiko
+
+python-zeroconf
+  Copyright (c) 2003-2024 Paul Scott-Murphy, William McBrine, and contributors
+  License: GNU LGPL v2.1
+  https://github.com/python-zeroconf/python-zeroconf
+
+Model weights are NOT redistributed in this repository. Download them from the
+official sources above and place them under models/ (see README).
+--------------------------------------------------------------------------
